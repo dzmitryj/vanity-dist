@@ -3,7 +3,7 @@
     "Author": "dimit",
     "Name": "Vanity",
     "InternalName": "Vanity",
-    "AssemblyVersion": "0.3.265.0",
+    "AssemblyVersion": "0.3.266.0",
     "Description": "Discover mods, keep shopping history, resolve archive bundles and organize imported mods in Penumbra. Dress Up has a native 3D character viewport with rotation, pan and zoom. Isolated mod staging remains under development.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -20,9 +20,9 @@
     "Punchline": "Discover mods, save shopping lists, and install through Penumbra.",
     "AcceptsFeedback": false,
     "RepoUrl": "https://github.com/dzmitryj/vanity-dist",
-    "DownloadLinkInstall": "https://github.com/dzmitryj/vanity-dist/releases/download/v0.3.265/Vanity-0.3.265.zip",
-    "DownloadLinkUpdate": "https://github.com/dzmitryj/vanity-dist/releases/download/v0.3.265/Vanity-0.3.265.zip",
-    "DownloadLinkTesting": "https://github.com/dzmitryj/vanity-dist/releases/download/v0.3.265/Vanity-0.3.265.zip",
-    "LastUpdate": 1793708650
+    "DownloadLinkInstall": "https://github.com/dzmitryj/vanity-dist/releases/download/v0.3.266/Vanity-0.3.266.zip",
+    "DownloadLinkUpdate": "https://github.com/dzmitryj/vanity-dist/releases/download/v0.3.266/Vanity-0.3.266.zip",
+    "DownloadLinkTesting": "https://github.com/dzmitryj/vanity-dist/releases/download/v0.3.266/Vanity-0.3.266.zip",
+    "LastUpdate": 1793710133
   }
 ]
